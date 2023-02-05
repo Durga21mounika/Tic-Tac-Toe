@@ -1,46 +1,10 @@
-Skip to content
-Search or jump to…
-Pull requests
-Issues
-Codespaces
-Marketplace
-Explore
- 
-@Durga21mounika 
-Gaurav31200
-/
-TIC_TAC_TOE
-Public
-Fork your own copy of Gaurav31200/TIC_TAC_TOE
-Code
-Issues
-Pull requests
-Actions
-Projects
-Security
-Insights
-TIC_TAC_TOE/src/TIC_TAC_TOE_FRAME.java /
-@Gaurav31200
-Gaurav31200 Completed the tic tac toe
-Latest commit 12895b1 3 weeks ago
- History
- 1 contributor
-620 lines (526 sloc)  27.3 KB
-
 
 import static java.awt.Color.*;
 import javax.swing.JButton;
 import javax.swing.JOptionPane;
 
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/GUIForms/JFrame.java to edit this template
- */
 
-/**
- *
- * @author tanisha saini
- */
+
 public class TIC_TAC_TOE_FRAME extends javax.swing.JFrame {
 
     /**
