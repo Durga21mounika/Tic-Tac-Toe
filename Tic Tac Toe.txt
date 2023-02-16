@@ -611,18 +611,4 @@ public class TIC_TAC_TOE_FRAME extends javax.swing.JFrame {
     private javax.swing.JLabel xScore;
     // End of variables declaration//GEN-END:variables
 }
-Footer
-© 2023 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
-TIC_TAC_TOE/TIC_TAC_TOE_FRAME.java at main · Gaurav31200/TIC_TAC_TOE
+
